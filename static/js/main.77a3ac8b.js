@@ -34236,41 +34236,11 @@
               activeImg: Ye,
               link: "https://docs.unisuperai.org/",
             },
-            {
-              value: "Gitbook",
-              key: "r_item2",
-              img: et,
-              activeImg: qe,
-              link: "https://uniagent.gitbook.io/uniagent",
-            },
-            {
-              value: "Business Plan",
-              key: "r_item3",
-              img: tt,
-              activeImg: Ke,
-              link: "https://www.uniagent.co/pdf/ProjectIntroduction.pdf",
-            },
-            {
-              value: "DeAI Lighting Plan",
-              key: "r_item3",
-              img: it,
-              activeImg: Je,
-              link: "https://www.uniagent.co/pdf/DeAILightingPlan.pdf",
-            },
-            {
-              value: "LitePaper",
-              key: "r_item4",
-              img: nt,
-              activeImg: Qe,
-              link: "",
-            },
-            {
-              value: "Economic Model",
-              key: "r_item5",
-              img: rt,
-              activeImg: Ze,
-              link: "",
-            },
+            
+          
+           
+           
+         
           ],
           r = [{ value: "English", key: "en", img: ot, activeImg: at }];
         const i = (0, fb.jsx)(Qf, {
