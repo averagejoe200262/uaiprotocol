@@ -34210,13 +34210,7 @@
         const { i18n: e } = zt();
         he();
         let t = [
-            {
-              value: "Telegram Community",
-              key: "c_item1",
-              img: Fe,
-              activeImg: Ge,
-              link: "https://t.me/+CA37I0e_8KExN2Nk",
-            },
+           
             {
               value: "Twitter",
               key: "c_item2",
@@ -34229,22 +34223,10 @@
               key: "c_item3",
               img: Fe,
               activeImg: Ge,
-              link: "https://t.me/UniAgent_AI",
+              link: "https://t.me/uaiprotocol",
             },
-            {
-              value: "Medium",
-              key: "c_item4",
-              img: Ve,
-              activeImg: Ue,
-              link: "https://medium.com/@UniAgent",
-            },
-            {
-              value: "Youtube",
-              key: "c_item5",
-              img: He,
-              activeImg: Xe,
-              link: "https://www.youtube.com/@UniAgent",
-            },
+           
+           
           ],
           n = [
             {
