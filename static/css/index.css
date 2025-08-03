@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: "Inter", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("./assets/font/Wendy_One/WendyOne-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inter"; /* 为字体定义一个名称 */
+  src: url("./assets/font/Inter-Bold-4.otf") format("opentype"); /* 指定字体文件的路径和格式 */
+}
+
+/* 设置滚动条的样式 */
+body::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+/* 滚动槽 */
+body::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset006pxrgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+/* 滚动条滑块 */
+body::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: rgb(109, 176, 203);
+  -webkit-box-shadow: inset006pxrgba(0, 0, 0, 0.5);
+}
+body::-webkit-scrollbar-thumb:window-inactive {
+  background: rgb(109, 176, 203);
+}
+body,
+#root {
+  background: #000 !important;
+}
